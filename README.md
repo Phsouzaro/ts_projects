@@ -109,3 +109,6 @@ Fim das configurações para o Typescript;
 # Repositorio com todo o aprendizado desse  abaixo:
 https://github.com/luizomf/cursojstypescript/tree/master/src
 ===============================================================================
+
+Para quem deseja aprender Typescript sem precisar configurar todo o ambiente, tem o Playground do Ts no proprio site, segue abaixo:
+https://www.typescriptlang.org/play?#code/
