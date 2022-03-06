@@ -105,3 +105,7 @@ Clicar com o botao direito na pasta raiz do projeto e "Generate .editorconfig"
 
 Fim das configurações para o Typescript;
 
+===============================================================================
+# Repositorio com todo o aprendizado desse  abaixo:
+https://github.com/luizomf/cursojstypescript/tree/master/src
+===============================================================================
